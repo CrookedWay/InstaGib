@@ -1,0 +1,3 @@
+/home/jackson/InstaGib/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jackson/InstaGib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jackson/InstaGib/cmake-build-debug/CMakeFiles/Intagib.dir
