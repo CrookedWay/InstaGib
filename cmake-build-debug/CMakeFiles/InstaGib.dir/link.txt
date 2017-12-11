@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/InstaGib.dir/main.c.o  -o InstaGib 

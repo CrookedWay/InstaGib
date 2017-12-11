@@ -24,10 +24,12 @@ int main(int argc, char *argv[])
             continue;
         }
         strcpy(inputFile.fileContent[j], buff);
-        printf ("%s\n", buff);
+//        printf ("%s\n", buff);
         j++;
     }
 //    printf("%d", i);
+    calculateMeltingTemperature(inputFile);
+    printf("Just checking");
     fclose(file);
 }
 

@@ -84,6 +84,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/jackson/InstaGib/main.c">
+			<Option target="Intagib"/>
+		</Unit>
 		<Unit filename="/home/jackson/InstaGib/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

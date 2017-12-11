@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jackson/InstaGib/fasta.h
+
+/home/jackson/InstaGib/main.c
+stdio.h
+-
+string.h
+-
+malloc.h
+-
+fasta.h
+/home/jackson/InstaGib/fasta.h
+
