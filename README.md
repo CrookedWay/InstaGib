@@ -12,6 +12,7 @@ These files can contain multiple fasta sequences in them.
 
 ________________________________________________________
 12/10/2017
+
 Finally Figured out the melting temp calculator. The equation and algo is simple enough, but had just the hardest time with the memory allocation for the class struct. I think their would be a fair argument to be had that C Stack Overflow Posts are some pretentious non-helpful bullshit. The rhetoric that C is simplistic is more than a little reductive.
 
 Next thing up is to start randomly generating primers. This is going to require a unique melting temp function for each of the randomly generated primers. I think I'm just going to cap it at a finite nucleotide length because I don't really see the point (for this school project) in generating multilengths when there not going to be used. I'll re-evaluate over the winter break.
